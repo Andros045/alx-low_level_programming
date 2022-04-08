@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - the containing fun
- * Return: 0 if sucessful
+ * main - prints the phrase with proper grammar,
+ * but the outcome is a piece of art,
+ * Return: 0 if exited properly, non-zero otherwise
+ * main - the containing func
+ * Return: 0 if succesful
  */
-/int main(void)
+int main(void)
 {
-	printf("with proper grammer, but the outcome is a piece of art,\n");
-	return (0);
-}
